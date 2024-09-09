@@ -1,0 +1,39 @@
+.cinzel-<uniquifier> {
+  font-family: "Cinzel", system-ui;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+h1 {
+font-size: 18px;
+font-family: Monospace;
+font-weight: bold;
+color: white;
+}
+img {
+ width: 230px;
+ height: 230px;
+ border-radius: 100px 100px 100px 100px;
+}
+h2 { font-size: 50px;
+font-family: Monospace;
+font-weight: bold;}
+body {
+ background-color: black;
+ font-family: Monospace;
+ color: white;
+ text-align: center;
+ font-weight: bold;
+}
+a {
+ background-color: black;
+ font-size: 50px;
+ border-radius: 10px 10px 10px 10px;
+ padding: 10px;
+ display: block;
+ text-align: center;
+ margin: 10px;
+ color: white;
+ font-family: Monospace;
+ font-weight: bold;
+}
